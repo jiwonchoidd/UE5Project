@@ -1,0 +1,5 @@
+LevelBlueprint사용 작업 추가됨.(트리거사용됨.)
+1)ParameterCollection -> block(Wall_Inst)
+2)MaterialInstance->Enemy(red,blue,yello)
+
+http://api.unrealengine.com/KOR/Engine/Rendering/Materials/ParameterCollections/index.html
